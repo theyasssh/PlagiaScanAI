@@ -1,6 +1,6 @@
 # 🔍 PlagiScan AI — Intelligent Plagiarism Detection System
 
-> A Final Year Project by **[Yash Khatri](https://theyashkhatri.dev)**
+> A Project by **[Yash Khatri](https://theyashkhatri.dev)**
 
 ---
 
